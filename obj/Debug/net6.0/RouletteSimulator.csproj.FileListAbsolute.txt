@@ -1,0 +1,15 @@
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\bin\Debug\net6.0\RouletteSimulator.exe
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\bin\Debug\net6.0\RouletteSimulator.deps.json
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\bin\Debug\net6.0\RouletteSimulator.runtimeconfig.json
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\bin\Debug\net6.0\RouletteSimulator.dll
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\bin\Debug\net6.0\RouletteSimulator.pdb
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.csproj.AssemblyReference.cache
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.AssemblyInfoInputs.cache
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.AssemblyInfo.cs
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.csproj.CoreCompileInputs.cache
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.dll
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\refint\RouletteSimulator.dll
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.pdb
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\RouletteSimulator.genruntimeconfig.cache
+D:\Dev\Projetos pessoais\Scripts\roulettesimulator\obj\Debug\net6.0\ref\RouletteSimulator.dll
